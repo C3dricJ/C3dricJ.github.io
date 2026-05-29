@@ -1,6 +1,6 @@
 # Cedric Urbino Portfolio
 
-Welcome to my professional portfolio website.
+Welcome to my professional portfolio website - https://c3dricj.github.io/
 
 This site serves as a central location to showcase my technical projects, research, professional experience, and areas of interest across cloud engineering, DevOps, automation, Audio Video, Networking, infrastructure, cybersecurity, and technology leadership.
 
